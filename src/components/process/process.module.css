@@ -1,0 +1,31 @@
+.processSectionBg {
+  background-color: #f7fbff;
+  border-radius: 20px;
+}
+
+.processCardHeading {
+  font-size: 17px;
+  text-align: center;
+}
+
+.processSectionTitle {
+  text-align: center;
+  font-weight: bolder;
+}
+
+.borderRadius {
+  border-radius: 43px;
+}
+
+.processCard {
+  border-radius: 20px;
+  cursor: pointer;
+  background-color:#FFF;
+  box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.02);
+}
+
+.processSectionImageBg {
+  border-radius: 20px;
+  height: 150px;
+  background-color: #f7fbff;
+}

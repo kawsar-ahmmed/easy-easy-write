@@ -1,0 +1,34 @@
+.profileCard {
+  width: 35%;
+  padding: 30px 10px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border-radius: 10px;
+  opacity: 1;
+}
+
+.btn {
+  padding: 10px 30px;
+  background: #cbdcff 0% 0% no-repeat padding-box;
+  display: block;
+  border: 0;
+  border-radius: 4px;
+  margin-top: 10px;
+  color: #0254f9;
+}
+
+.name {
+  font-size: 20px;
+  line-height: 10px;
+  font-weight: bold;
+}
+
+.email {
+  color: #b3afaf;
+  line-height: 14px;
+}
+
+@media only screen and (max-width: 600px) {
+  .profileCard {
+    width: 100%;
+  }
+}
